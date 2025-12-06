@@ -87,6 +87,9 @@ Optional columns:
 
 ## Examples
 
+![图片说明](example_picture/transposon_plot_centered.png)
+
+
 ### Example 1: Basic Plot
 
 ```r
