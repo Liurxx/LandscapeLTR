@@ -1,0 +1,24 @@
+Package: LandscapeLTR
+Type: Package
+Title: Visualization of LTR Retrotransposon Distribution Landscape
+Version: 1.0.0
+Author: Your Name
+Maintainer: Your Name <your.email@example.com>
+Description: A package for visualizing the distribution landscape of LTR 
+    retrotransposons along genomic regions. It provides functions to read, 
+    process, and plot LTR retrotransposon data with a centered axis layout 
+    that balances clades above and below the central axis.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Depends: R (>= 4.0.0)
+Imports:
+    tidyverse,
+    ggplot2,
+    ggsci,
+    scales
+Suggests:
+    knitr,
+    rmarkdown,
+    testthat
+RoxygenNote: 7.3.3

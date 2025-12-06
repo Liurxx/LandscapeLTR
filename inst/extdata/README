@@ -1,0 +1,20 @@
+Example Data Files
+==================
+
+This directory contains example data files for the LandscapeLTR package.
+
+example_ltr_data.tsv
+--------------------
+A sample TSV file containing LTR retrotransposon annotations. This file can be used
+with the plot_ltr_landscape() function to demonstrate package functionality.
+
+File format:
+- Tab-separated values
+- Required columns: TE, Clade, Strand
+- TE format: "Chr:Start-End" (e.g., "Chr01:10056333-10060920")
+
+Usage:
+  library(LandscapeLTR)
+  data_file <- system.file("extdata", "example_ltr_data.tsv", package = "LandscapeLTR")
+  plot_ltr_landscape(data_file, target_region = c(10.0, 11.0))
+

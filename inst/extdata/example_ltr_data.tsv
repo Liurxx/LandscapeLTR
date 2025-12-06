@@ -1,0 +1,20 @@
+TE	Order	Superfamily	Clade	Complete	Strand	Domains
+Chr01:10056333-10060920	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+Chr01:10197890-10203613	LTR	Copia	Bianca	no	-	GAG|Bianca
+Chr01:10322660-10328778	LTR	Copia	Bianca	no	-	GAG|Bianca RT|Bianca RH|Bianca
+Chr01:10434322-10446874	LTR	Gypsy	mixture	no	-	INT|Athila CHDCR|CRM
+Chr01:10437095-10440952	LTR	Gypsy	CRM	no	-	CHDCR|CRM
+Chr01:10737507-10741362	LTR	Gypsy	CRM	no	-	CHDCR|CRM
+Chr01:10762365-10769866	LTR	Gypsy	Tekay	yes	+	GAG|Tekay PROT|Tekay RT|chromo-unclass RH|Tekay INT|Tekay CHD|Tekay
+Chr01:10771482-10777832	LTR	Copia	Bianca	yes	+	GAG|Bianca PROT|Bianca INT|Bianca RT|Bianca RH|Bianca
+Chr01:10958417-10963477	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+Chr01:11107300-11113399	LTR	Copia	Bianca	yes	+	GAG|Bianca PROT|Bianca INT|Bianca RT|Bianca RH|Bianca
+Chr01:11355260-11369073	LTR	Gypsy	Athila	yes	+	GAG|Athila PROT|Athila RT|Athila RH|Athila INT|Athila
+Chr01:11414602-11419650	LTR	Gypsy	CRM	yes	+	GAG|CRM PROT|CRM RT|CRM RH|CRM INT|CRM
+Chr01:11528826-11534983	LTR	Copia	Bianca	yes	-	GAG|Bianca PROT|Bianca INT|Bianca RT|Bianca RH|Bianca
+Chr01:11662341-11669275	LTR	Gypsy	Athila	no	-	GAG|Athila PROT|Athila
+Chr01:11871677-11877862	LTR	Copia	Bianca	yes	+	GAG|Bianca PROT|Bianca INT|Bianca RT|Bianca RH|Bianca
+Chr01:11992581-11998712	LTR	Copia	Bianca	yes	+	GAG|Bianca PROT|Bianca INT|Bianca RT|Bianca RH|Bianca
+Chr01:12213021-12218450	LTR	Copia	Tork	yes	-	GAG|Tork PROT|Tork INT|Tork RT|Tork RH|Tork
+Chr01:12236165-12240762	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+Chr01:12538741-12544882	LTR	Copia	Bianca	yes	+	GAG|Bianca PROT|Bianca INT|Bianca RT|Bianca RH|Bianca
