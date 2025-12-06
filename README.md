@@ -126,7 +126,6 @@ GPL-3
 
 ## Author
 
-Your Name
 
 ## Version
 
